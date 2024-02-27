@@ -1,4 +1,4 @@
-### LayerDiffusion
+# LayerDiffusion
 
 [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/)
 

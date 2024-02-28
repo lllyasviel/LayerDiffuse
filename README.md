@@ -1,6 +1,8 @@
 # LayerDiffusion
 
-[Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/)
+Transparent Image Layer Diffusion using Latent Transparency, https://arxiv.org/abs/2402.17113
+
+[Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113)
 
 ### Ooops, you come to this repo too early. 
 

@@ -4,8 +4,8 @@ Transparent Image Layer Diffusion using Latent Transparency, https://arxiv.org/a
 
 [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113)
 
-### Ooops, you come to this repo too early. 
+### Ooops, you come to this repo too early ... But thanks a lot for finding this repo!
 
-### We are still converting model formats, uploading files, and finalizing scripts.
+### We are still converting model formats, uploading files, finalizing scripts, and implementing supports for some platforms ...
 
-### Please come back tomorrow or check this repo several hours later ...
+### Fed 28: Please check this repo several hours later or come back tomorrow ...

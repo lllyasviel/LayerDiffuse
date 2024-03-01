@@ -2,10 +2,28 @@
 
 Transparent Image Layer Diffusion using Latent Transparency
 
-### Ooops, you come to this repo too early ... But thanks a lot for finding this repo!
+This is the entry page of this project.
 
-### We are still converting model formats, uploading files, finalizing scripts, and implementing supports for some platforms ...
+You may want to visit specific platforms:
 
-### Fed 29: Almost finished and I hope to release today, I am solving some gradio problem related to PNG images (and some other) and need a bit more time ...
+### Stable Diffusion WebUI (via Forge)
 
-Thanks a lot again for your patience!
+https://github.com/layerdiffusion/sd-forge-layerdiffusion
+
+### Gradio + Diffusers + Colab
+
+Coming soon. (Highest priority)
+
+### Huggingface Space
+
+Coming soon. (Highest priority)
+
+### Other Platforms
+
+(Supports will depend on workloads)
+
+Fooocus
+
+ComfyUI
+
+Original SD WebUI

@@ -27,3 +27,7 @@ Fooocus
 ComfyUI
 
 Original SD WebUI
+
+Dataset&training code release is also planned
+
+

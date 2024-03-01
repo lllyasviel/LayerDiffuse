@@ -1,5 +1,7 @@
 # LayerDiffusion
 
+*(update Feb29: the name of this project will change to "LayerDiffuse" at Mar 3)*
+
 Transparent Image Layer Diffusion using Latent Transparency
 
 This is the entry page of this project.

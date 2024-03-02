@@ -12,6 +12,11 @@ You may want to visit specific platforms:
 
 https://github.com/layerdiffusion/sd-forge-layerdiffusion
 
+
+### ComfyUI
+https://github.com/huchenlei/ComfyUI-layereddiffusion
+
+
 ### Gradio + Diffusers + Colab
 
 Coming soon. (Highest priority)
@@ -25,8 +30,6 @@ Coming soon. (Highest priority)
 (Supports will depend on workloads)
 
 Fooocus
-
-ComfyUI
 
 Original SD WebUI
 

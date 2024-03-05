@@ -1,6 +1,4 @@
-# LayerDiffusion
-
-*(update Feb29: the name of this project will change to "LayerDiffuse" at Mar 3)*
+# LayerDiffuse
 
 Transparent Image Layer Diffusion using Latent Transparency
 
@@ -10,7 +8,7 @@ You may want to visit specific platforms:
 
 ### Stable Diffusion WebUI (via Forge)
 
-https://github.com/layerdiffusion/sd-forge-layerdiffusion
+https://github.com/layerdiffusion/sd-forge-layerdiffuse
 
 ### Gradio + Diffusers + Colab
 

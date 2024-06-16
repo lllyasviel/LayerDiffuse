@@ -10,6 +10,10 @@ You may want to visit specific platforms:
 
 https://github.com/layerdiffusion/sd-forge-layerdiffuse
 
+### Diffusers (CLI)
+
+https://github.com/lllyasviel/LayerDiffuse_DiffusersCLI
+
 ### Gradio + Diffusers + Colab
 
 Coming soon. (Highest priority)
